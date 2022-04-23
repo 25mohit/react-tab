@@ -1,0 +1,25 @@
+.tabnav-main-div {
+  width: 30%;
+  padding-top: 15px;
+}
+
+.tabnav-main-div ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  list-style: none;
+}
+
+.tabnav-main-div li {
+  margin-right: 20px;
+}
+
+.tabnav-main-div li .tabnav-a {
+  padding: 10px;
+  text-decoration: none;
+}
+
+.tabnav-main-div li:hover {
+  cursor: pointer;
+}
+/*# sourceMappingURL=TabNav.css.map */

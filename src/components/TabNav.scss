@@ -1,0 +1,20 @@
+.tabnav-main-div{
+    // background-color: red;
+    width: 30%;
+    padding-top: 15px;
+    ul{
+        display: flex;
+        list-style: none;
+    }
+    li{
+        margin-right: 20px;
+        .tabnav-a{
+            padding: 10px;
+            text-decoration: none;
+            // background-color: orange;
+        }
+    }
+    li:hover{
+        cursor: pointer;
+    }
+}
