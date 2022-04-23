@@ -26,7 +26,7 @@ class App extends React.Component {
           </Tab>
 
           <Tab isSelected={ this.state.selected === 'Settings' }>
-            <h1>THis is Settings Section</h1>
+            <h1>THis is Settings Section TOday</h1>
           </Tab>
 
           <Tab isSelected={ this.state.selected === 'Profile' }>
